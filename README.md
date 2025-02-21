@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/775d64fa-4c48-42ea-a7df-e50ef9200879" width="200">
+</p>
+
 # MediTrack - Medication Tracking App
 
 ## Overview
@@ -89,6 +93,8 @@ medi-track/
 ├── constant/          # Constants and theme
 ├── service/           # Utility services
 ```
+## Screenshot
+![Adsız tasarım](https://github.com/user-attachments/assets/32b0e0c0-3138-4320-aaaa-680257854771)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
